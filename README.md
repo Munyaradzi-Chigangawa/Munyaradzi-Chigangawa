@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://wa.me/message/PBMZD6H6M5VJ1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
+<a href="https://wa.me/message/M272367YA5M3N1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="M272367YA5M3N1" height="22" width="22" /></a>
 <a href="https://twitter.com/mchigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mchigangawa" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/munyaradzi-chigangawa-45170818b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
 <a href="https://www.instagram.com/munyaradzichigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
