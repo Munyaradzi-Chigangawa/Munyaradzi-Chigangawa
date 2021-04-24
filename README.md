@@ -30,6 +30,8 @@
   
   
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyaradzi-Chigangawa&layout=compact&hide=html" alt="Munyaradzi-Chigangawa" /></p>
+ 
+ <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Munyaradzi-Chigangawa&show_icons=true" alt="Munyaradzi-Chigangawa" /></p>
 <!--
