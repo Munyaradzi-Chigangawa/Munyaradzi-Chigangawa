@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mchigangawa?label=mchigangawa&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Munyaradzi-Chigangawa?logo=GitHub&style=for-the-badge)
 
-- 🌱 I’m currently learning **Flutter, Angular, Java**
+- 🌱 I’m currently learning **Flutter, Angular**
 
 - 👯 I’m looking forward to collaborate with **other content creators**
 
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://wa.me/message/M272367YA5M3N1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="M272367YA5M3N1" height="22" width="22" /></a>
+<a href="https://wa.me/message/T6OSV4DL7Y2PB1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="T6OSV4DL7Y2PB1" height="22" width="22" /></a>
 <a href="https://twitter.com/mchigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mchigangawa" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/munyaradzi-chigangawa-45170818b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
 <a href="https://www.instagram.com/munyaradzichigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
