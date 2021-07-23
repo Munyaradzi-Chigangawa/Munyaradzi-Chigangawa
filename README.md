@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact: **Music and Code**
 
+- Check out my [Portfolio](https://munyaradzichigangawa-6e6a3.web.app/#/)
+
 ### Connect with me:
 
 <a href="https://wa.me/message/T6OSV4DL7Y2PB1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="T6OSV4DL7Y2PB1" height="22" width="22" /></a>
@@ -17,7 +19,6 @@
 <a href="https://www.linkedin.com/in/munyaradzi-chigangawa-45170818b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
 <a href="https://www.instagram.com/munyaradzichigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
 <a href="https://www.facebook.com/people/Munyaradzi-Chigangawa/100005882974770" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
-
 <br />
 
 ### Languages and Tools:
