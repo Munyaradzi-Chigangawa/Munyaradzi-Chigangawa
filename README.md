@@ -26,10 +26,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="22" height="22"/>
   
   
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyaradzi-Chigangawa&layout=compact&hide=html" alt="Munyaradzi-Chigangawa" /></p>
-<P></P>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Munyaradzi-Chigangawa&show_icons=true" alt="Munyaradzi-Chigangawa" /></p>
-<!--
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyaradzi-Chigangawa&" alt="Munyaradzi-Chigangawa" /></p>
