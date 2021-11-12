@@ -1,5 +1,5 @@
 <h1 align ="left">Hi 👋, I'm Munyaradzi Chigangawa</h1>
-<h3 align="left">I'm an aspiring Computer Scientist. Mobile, Web and Desktop Developer😊.</h3>
+<h3 align="left">I'm a Software Enginee :).</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mchigangawa?label=mchigangawa&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Munyaradzi-Chigangawa?logo=GitHub&style=for-the-badge)
