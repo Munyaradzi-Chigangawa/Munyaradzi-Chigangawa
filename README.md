@@ -38,7 +38,7 @@
   <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "50" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="100"/>
   
-  
+  ## Github Stats
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyaradzi-Chigangawa&layout=compact&hide=html" alt="Munyaradzi-Chigangawa"/>
 </p>
