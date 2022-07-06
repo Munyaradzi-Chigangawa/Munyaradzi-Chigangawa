@@ -12,7 +12,7 @@
 
 - Check out my [Portfolio](https://munyaradzichigangawa-6e6a3.web.app/#/)
 
-### Connect with me:
+## Connect with me:
 
 <a href="https://wa.me/message/T6OSV4DL7Y2PB1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="T6OSV4DL7Y2PB1" height="22" width="22" /></a>
 <a href="https://twitter.com/mchigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mchigangawa" height="22" width="22" /></a>
@@ -21,16 +21,32 @@
 <a href="https://www.facebook.com/people/Munyaradzi-Chigangawa/100005882974770" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
 <br />
 
-### Languages and Tools:
+## Tech Stack
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="22" height="22"/>
+<p align="left">
+  <img src= "https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width = "100" />
+  <img src= "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width= "100"/>
+  <img src ="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width = "100"/>
+  
+   ## Tools
+  <p align="left">
+  <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width = "100"/>
+   <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width = "100"/>
+  
+  ## Databases
+  <p align="left">
+  <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width = "50" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="100"/>
   
   
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyaradzi-Chigangawa&layout=compact&hide=html" alt="Munyaradzi-Chigangawa" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Munyaradzi-Chigangawa&show_icons=true" alt="Munyaradzi-Chigangawa" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyaradzi-Chigangawa&" alt="Munyaradzi-Chigangawa" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munyaradzi-Chigangawa&layout=compact&hide=html" alt="Munyaradzi-Chigangawa"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Munyaradzi-Chigangawa&show_icons=true" alt="Munyaradzi-Chigangawa" />
+</p>
+
+ <p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyaradzi-Chigangawa&" alt="Munyaradzi-Chigangawa" />
+ </p>
