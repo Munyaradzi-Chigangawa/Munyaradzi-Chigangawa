@@ -8,12 +8,10 @@
 
 - 👯 I’m looking forward to collaborate with **other content creators**
 
-- ⚡ Fun fact: **Music and Code**
-
 - Check out my [Portfolio](https://munyaradzichigangawa-6e6a3.web.app/#/)
 
 ## Connect with me:
-
+<p align="left"
 <a href="https://wa.me/message/T6OSV4DL7Y2PB1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="T6OSV4DL7Y2PB1" height="22" width="22" /></a>
 <a href="https://twitter.com/mchigangawa" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mchigangawa" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/munyaradzi-chigangawa-45170818b/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Munyaradzi Chigangawa" height="22" width="22" /></a>
