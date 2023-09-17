@@ -1,5 +1,5 @@
 <h1 align ="left">Hi 👋, I'm Munyaradzi Chigangawa</h1>
-<h3 align="left">I'm a Software Engineer :).</h3>
+<h3 align="left">I'm a Software Engineer :)</h3>
 
 [![wakatime](https://wakatime.com/badge/user/f3bb4546-7f81-4f1f-8c74-ebf6e1c05a72.svg)](https://wakatime.com/@f3bb4546-7f81-4f1f-8c74-ebf6e1c05a72)
 
