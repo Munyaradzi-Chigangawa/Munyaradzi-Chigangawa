@@ -29,6 +29,7 @@
   <img src= "https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width= "100"/>
   <img src= "https://www.vectorlogo.zone/logos/python/python-ar21.svg" width = "100"/>
   <img src ="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width = "100"/>
+  <img src ="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width = "100"/>
   
   
    ## Tools
@@ -38,6 +39,7 @@
    <img src ="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" width = "100"/>
    <img src ="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width = "100"/>
    <img src ="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" width = "100"/>
+   <img src ="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" width = "100"/>
   
   ## Databases
   <p align="left">
