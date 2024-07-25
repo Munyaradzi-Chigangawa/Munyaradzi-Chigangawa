@@ -40,7 +40,8 @@
    <img src ="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width = "100"/>
    <img src ="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" width = "100"/>
    <img src ="https://www.vectorlogo.zone/logos/twilio/twilio-ar21.svg" width = "100"/>
-  
+  <img src ="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" width = "100"/>
+    
   ## Databases
   <p align="left">
   <img src = "https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width = "100" />
