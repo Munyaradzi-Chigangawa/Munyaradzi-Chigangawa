@@ -57,6 +57,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Munyaradzi-Chigangawa&show_icons=true" alt="Munyaradzi-Chigangawa" />
 </p>
 
- <p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Munyaradzi-Chigangawa&" alt="Munyaradzi-Chigangawa" />
- </p>
+---
+
+### ⏱️ Weekly Development Breakdown
+
+<figure><embed src="https://wakatime.com/share/@mchigangawa/3d81a8f2-65b8-4181-b375-24e56a30be40.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@mchigangawa/15da16c8-ec92-482c-8ced-477989c85c8f.svg"></embed></figure>
