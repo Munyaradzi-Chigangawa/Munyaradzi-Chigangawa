@@ -30,7 +30,7 @@
   <img src= "https://www.vectorlogo.zone/logos/python/python-ar21.svg" width = "100"/>
   <img src ="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width = "100"/>
   <img src ="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width = "100"/>
-  <img src ="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg" width = "100"/>
+  <img src ="https://www.vectorlogo.zone/logos/swift/swift-ar21~bgwhite.svg" width = "100"/>
   
   
    ## Tools
