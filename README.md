@@ -10,7 +10,7 @@
 
 - 👯 I’m looking forward to collaborate with **other content creators**
 
-- Check out my [Portfolio](https://munyaradzichigangawa-6e6a3.web.app/#/)
+- Check out my [Portfolio](https://munyaradzichigangawa.co.zw)
 
 ## Connect with me:
 <p align="left"
