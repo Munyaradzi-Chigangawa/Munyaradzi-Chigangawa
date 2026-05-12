@@ -4,7 +4,7 @@
 [![wakatime](https://wakatime.com/badge/user/f3bb4546-7f81-4f1f-8c74-ebf6e1c05a72.svg)](https://wakatime.com/@f3bb4546-7f81-4f1f-8c74-ebf6e1c05a72)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mchigangawa?label=mchigangawa&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Munyaradzi-Chigangawa?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mchigangawa?logo=GitHub&style=for-the-badge)
 
 - 🌱 I’m currently learning **Flutter, Angular and Java**
 
